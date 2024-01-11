@@ -1,0 +1,15 @@
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.deps.json
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.runtimeconfig.json
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.dll
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.pdb
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.csproj.AssemblyReference.cache
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfo.cs
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.dll
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/refint/DesignPatterns.dll
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.pdb
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.genruntimeconfig.cache
+/Users/cedric/Projects/DesignPatterns/DesignPatterns/obj/Debug/net7.0/ref/DesignPatterns.dll

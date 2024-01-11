@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Patterns\" />
+    <None Remove="Patterns\Factory\" />
+    <None Remove="Patterns\Singleton\" />
+    <None Remove="Patterns\Factory\NetworkUtility\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Patterns\" />
+    <Folder Include="Patterns\Factory\" />
+    <Folder Include="Patterns\Singleton\" />
+    <Folder Include="Patterns\Factory\NetworkUtility\" />
+  </ItemGroup>
+</Project>
